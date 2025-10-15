@@ -1,4 +1,9 @@
 {
+  {
+  "name": "test-repo",
+  "version": "1.0.1",
+  "description": "Test repository",
+},
   "private": true,
   "workspaces": [
     "packages/*",
