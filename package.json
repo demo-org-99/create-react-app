@@ -5,8 +5,6 @@
     "docusaurus/website"
   ],
   "scripts": {
-    "testv2": "echo 'No tests yet'",
-    "startv2": "node index.js"
     "build": "cd packages/react-scripts && node bin/react-scripts.js build",
     "changelog": "lerna-changelog",
     "create-react-app": "node tasks/cra.js",
